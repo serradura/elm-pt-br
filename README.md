@@ -46,6 +46,7 @@ Protótipo de [awesome-list](https://github.com/sindresorhus/awesome) em portugu
 - [2º ElmSP - Introdução a Elm - programação funcional no front-end](https://www.youtube.com/watch?v=-muLScFUftE)
 - [2º ElmSP - Problemas que o Elm resolve só com o compilador, sem nada mais](https://www.youtube.com/watch?v=5fsaFkQRAyA)
 - [2º ElmSP - UIs confiáveis usando tipos](https://www.youtube.com/watch?v=cNdfK57smzQ)
+- [Castálio Podcast 121: Eduardo Cuducos - Linguagem Elm](https://www.youtube.com/watch?v=rq37oZvUuNw)
 
 
 ## Projetos Brazucas (Github)
