@@ -8,7 +8,7 @@ Protótipo de [awesome-list](https://github.com/sindresorhus/awesome) em portugu
 - [Artigos](#artigos)
 - [Vídeos / Palestras](#vídeos--palestras)
 - [Projetos Brazucas (Github)](#projetos-brazucas-github)
-- [Eventos](#eventos)
+- [Comunidade](#comunidade)
 - [FAQ](#faq)
 
 
@@ -57,8 +57,9 @@ Protótipo de [awesome-list](https://github.com/sindresorhus/awesome) em portugu
 - https://github.com/FidelisClayton/elm-pomodoro
 
 
-## Eventos
-
+## Comunidade
+- [Telegram: Elm Brasil](https://telegram.me/elmbrasil)
+- [Slack oficial da comunidade Elm - Acesse o channel Brazil](https://elmlang.herokuapp.com/)
 - [Meetup Elm SP](https://www.meetup.com/pt-BR/Elm-sp)
 
 
