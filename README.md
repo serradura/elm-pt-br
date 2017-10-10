@@ -55,6 +55,7 @@ Protótipo de [awesome-list](https://github.com/sindresorhus/awesome) em portugu
 - https://github.com/datasciencebr/jarbas
 - https://github.com/FidelisClayton/elm-spotify-mapper
 - https://github.com/FidelisClayton/elm-pomodoro
+- https://github.com/jouderianjr/bitcoin-br-chrome-extension
 
 
 ## Comunidade
