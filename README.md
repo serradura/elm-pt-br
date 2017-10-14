@@ -18,6 +18,7 @@ Protótipo de [awesome-list](https://github.com/sindresorhus/awesome) em portugu
 - [Cuducos - Porquê ELM: Chega de dor de cabeça com front-end, chega de Javascript](https://cuducos.me/2016/09/17/porque-elm.html)
 - #vídeo [Pagar.me Talks - A ideia do ELM para o front-end](https://www.youtube.com/watch?v=obdgL5zOjxg)
 - #vídeo [Eduardo Braga - Usando Elm para desenhar um frontend de fazer inveja - RSJS 2017](https://www.youtube.com/watch?v=1conZd12GzQ)
+- [Matheus Lima - Elm: Programação Funcional no Front-End do jeito certo](https://medium.com/tableless/elm-programa%C3%A7%C3%A3o-funcional-no-front-end-do-jeito-certo-f08424bcd84d)
 
 
 ## Artigos
@@ -38,6 +39,10 @@ Protótipo de [awesome-list](https://github.com/sindresorhus/awesome) em portugu
 - https://cuducos.me/2016/11/17/vamos-aprender-elm-sessao-4.html
 - https://cuducos.me/2016/11/24/vamos-aprender-elm-sessao-5.html
 
+**Progressive Web Apps (PWA)**
+
+- [ysimplicity - Série de artigos sobre Progressive Web Apps](https://turbolinks.ysimplicity.io/pwa.html)
+- [Rogério Chaves - Elm TodoMVC PWA](https://github.com/rogeriochaves/elm-todomvc-pwa) + [Implementando PWA em qualquer projeto](https://speakerdeck.com/rogeriochaves/implementando-pwa-em-qualquer-projeto)
 
 ## Vídeos / Palestras
 
@@ -53,6 +58,7 @@ Protótipo de [awesome-list](https://github.com/sindresorhus/awesome) em portugu
 
 - https://github.com/CaronaBoard/caronaboard
 - https://github.com/datasciencebr/jarbas
+- https://github.com/fake-news-detector/extension
 - https://github.com/FidelisClayton/elm-spotify-mapper
 - https://github.com/FidelisClayton/elm-pomodoro
 - https://github.com/jouderianjr/bitcoin-br-chrome-extension
@@ -60,7 +66,7 @@ Protótipo de [awesome-list](https://github.com/sindresorhus/awesome) em portugu
 
 ## Comunidade
 - [Telegram: Elm Brasil](https://telegram.me/elmbrasil)
-- [Slack oficial da comunidade Elm - Acesse o channel Brazil](https://elmlang.herokuapp.com/)
+- [Slack oficial da comunidade Elm - Acesse o channel #brazil](https://elmlang.herokuapp.com/)
 - [Meetup Elm SP](https://www.meetup.com/pt-BR/Elm-sp)
 
 
